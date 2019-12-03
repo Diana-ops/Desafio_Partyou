@@ -20,6 +20,8 @@ A tabela é composta por 3 colunas, que representam o tipo de usuário (ADM ou C
 
 _2. Lista de produtos_ 
 
+A segunda tabela foi composta por 3 colunas, que representam o código do produto, o seu nome e preço. 
+
 ![produtos](https://user-images.githubusercontent.com/46378210/70086047-45774480-15f0-11ea-938c-d3a885a730de.png)
 
 _3. Lista de pedidos_
@@ -41,3 +43,6 @@ Esta tabela é composta por 5 colunas que representam:
 
 
 ### Divisão dos Menus - Administrador e Consumidor 
+
+A interface inicialmente apresenta a opção de acessar uma conta ou cadastra-la: 
+

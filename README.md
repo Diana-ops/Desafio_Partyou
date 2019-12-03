@@ -14,6 +14,8 @@ O banco foi composto por 3 tabelas que armazenam:
 
 _1. Dados referentes ao cadastro de usuários administradores e consumidores_
 
+![usuarios](https://user-images.githubusercontent.com/46378210/70085963-12cd4c00-15f0-11ea-96fd-ccb5760bee47.png)
+
 _2. Lista de pedidos_
 
 _3. Lista de produtos_ 

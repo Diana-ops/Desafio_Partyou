@@ -14,13 +14,13 @@ O banco foi composto por 3 tabelas que armazenam:
 
 _1. Dados referentes ao cadastro de usuários administradores e consumidores_
 
-A tabela é composta por 3 colunas, que representam o tipo de usuário (ADM ou Consumidor), login e senha de acesso. Para entrar no sistema, o usuário deve apresentar um login presente no banco, caso contrário, deverá ser feito um __novo cadastro__
+A tabela é composta por 3 colunas, que representam o tipo de usuário (ADM ou Consumidor), login e senha de acesso. Para entrar no sistema, o usuário deve apresentar um login presente no banco, caso contrário, deverá ser feito um __novo cadastro__.
 
 ![usuarios](https://user-images.githubusercontent.com/46378210/70085963-12cd4c00-15f0-11ea-96fd-ccb5760bee47.png)
 
 _2. Lista de produtos_ 
 
-A segunda tabela foi composta por 3 colunas, que representam o código do produto, o seu nome e preço. 
+A segunda tabela foi composta por 3 colunas, que representam o código do produto, seu nome e preço. 
 
 ![produtos](https://user-images.githubusercontent.com/46378210/70086047-45774480-15f0-11ea-938c-d3a885a730de.png)
 

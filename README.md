@@ -46,3 +46,18 @@ Esta tabela é composta por 5 colunas que representam:
 
 A interface inicialmente apresenta a opção de acessar uma conta ou cadastra-la: 
 
+![1](https://user-images.githubusercontent.com/46378210/70087789-b66c2b80-15f3-11ea-8138-a481a22d3c4e.png)
+
+Ao cadastrar um novo usuário, é necessário inserir o tipo, login e senha:
+
+![2](https://user-images.githubusercontent.com/46378210/70087790-b66c2b80-15f3-11ea-98f9-266d86c4e579.png)
+
+Como consumidor, o usuário tem a opção de listar os produtos disponíveis, comprar e verificar o status dos pedidos:
+
+![3](https://user-images.githubusercontent.com/46378210/70087792-b66c2b80-15f3-11ea-9742-a098727442f2.png)
+
+Realizando o login como adiminstrador, o usuário tem a opção de listar e cadastrar novos produtos além de despachar e listar pedidos:  
+
+![4](https://user-images.githubusercontent.com/46378210/70087788-b66c2b80-15f3-11ea-9987-2ec52028657b.png)
+
+
